@@ -3,7 +3,7 @@ title: Background wokers are finally coming to Django!!!
 published: 2024-06-14
 tags: [webdevlopment, django, OSS]
 category: Django
-draft: true
+draft: false
 ---
 
 Django will finally be able to execute long-running tasks in the background without using any external package. Previously, I used Celery, but installing Redis and writing all that boilerplate just to send an email is not a great development experience.
