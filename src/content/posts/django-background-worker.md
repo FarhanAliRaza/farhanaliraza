@@ -1,6 +1,6 @@
 ---
 title: Background wokers are finally coming to Django!!!
-published: 2024-06-13
+published: 2024-06-14
 tags: [webdevlopment, django, OSS]
 category: Django
 draft: true
